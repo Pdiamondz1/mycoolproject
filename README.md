@@ -1,2 +1,2 @@
 # mycoolproject
-THis is the code for my project
+This is the code for my project
